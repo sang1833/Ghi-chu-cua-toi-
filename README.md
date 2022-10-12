@@ -22,5 +22,5 @@ Unordered List of Items:
 List Item element:  
 <ul>
 <li>Dấu chấm tròn thục đầu dòng</li>
-<ol>Dấu</ol>
+<ol>Cách một đoạn</ol>
 </ul>
