@@ -28,6 +28,6 @@ List Item element:
   </ul>
 * Danh sách 2: 
 <ol>Không có dấu chấm</ol>
-## 6. Xuống dòng
+## 6.Xuống dòng
 Sử dụng 2 dấu cách 
 
