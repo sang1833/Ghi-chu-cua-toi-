@@ -11,10 +11,11 @@ C2: [Github](https://github.com)
 ## 3.In đậm/nghiêng
 **In đậm**     
 *In nghiêng* 
+~Gạch ngang~
 ## 4.Trích dẫn, bo chữ 
 C1: 'đoạn cần bo'  
 C2:   
-'''
+'''sh
 Các dòng cần bo 
 '''
 ## 5.Dấu chấm đầu dòng
