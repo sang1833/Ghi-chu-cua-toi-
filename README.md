@@ -22,6 +22,7 @@ Unordered List of Items:
 List Item element:  
 - Gạch đầu dòng 
 <ul> 
-<li>Dấu chấm tròn thục đầu dòng</li>
+<li>Dấu chấm tròn thục đầu dòng 1</li>
+<li>Dấu chấm tròn thục đầu dòng 2</li>
 <ol>Cách một đoạn</ol>
 </ul>
