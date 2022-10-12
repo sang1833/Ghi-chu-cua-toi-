@@ -26,9 +26,7 @@ List Item element:
   <li>Dấu chấm tròn thục đầu dòng 1</li>
   <li>Dấu chấm tròn thục đầu dòng 2</li>
   </ul>
-* Danh sách 2: 
-<ol>Không có dấu chấm</ol>
-Exp: 
+* Danh sách 2:  
 ## 6.Xuống dòng
 Sử dụng 2 dấu cách 
 
