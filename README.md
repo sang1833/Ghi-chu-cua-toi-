@@ -20,8 +20,8 @@ Các dòng cần bo
 ## 5.Dấu chấm đầu dòng
 Unordered List of Items:  
 List Item element:  
-<ul>
-  - Gạch đầu dòng 
+- Gạch đầu dòng
+<ul> 
 <li>Dấu chấm tròn thục đầu dòng</li>
 <ol>Cách một đoạn</ol>
 </ul>
