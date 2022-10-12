@@ -7,7 +7,7 @@ Exp: Tiêu đề cấp 1(#), tiêu đề cấp 2(##),...
 C1: https://github.com
 C2: [Github](https://github.com)
 ### Ảnh: 
-<img src="link anh">
+<img src="link anh"/>
 ## 3.In đậm/nghiêng
 **In đậm**
 *In nghiêng*
