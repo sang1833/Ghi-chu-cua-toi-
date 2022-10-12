@@ -1,7 +1,7 @@
 # Ghi-chu-cua-toi-
-## 1.Tiêu đề
-Cấp tiêu đề bằng số #. Exp #1. Phần 1  
+## 1.Tiêu đề  
 Exp: Tiêu đề cấp 1(#), tiêu đề cấp 2(##),...  
+
 ## 2.Chèn link/ảnh 
 ### Link:
 C1: https://github.com  
@@ -18,12 +18,16 @@ C2:
 '''sh
 Các dòng cần bo 
 '''
-## 5.Dấu chấm đầu dòng
+## 5.Danh sách 
 Unordered List of Items:  
 List Item element:  
-- Gạch đầu dòng 
+- Danh sách 1:
   <ul> 
   <li>Dấu chấm tròn thục đầu dòng 1</li>
   <li>Dấu chấm tròn thục đầu dòng 2</li>
   </ul>
+* Danh sách 2: 
 <ol>Không có dấu chấm</ol>
+## 6. Xuống dòng
+Sử dụng 2 dấu cách 
+
