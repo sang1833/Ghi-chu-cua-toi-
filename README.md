@@ -21,6 +21,7 @@ Các dòng cần bo
 Unordered List of Items:  
 List Item element:  
 <ul>
+  - Gạch đầu dòng 
 <li>Dấu chấm tròn thục đầu dòng</li>
 <ol>Cách một đoạn</ol>
 </ul>
