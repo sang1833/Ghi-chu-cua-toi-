@@ -9,7 +9,7 @@ C2: [Github](https://github.com)
 ### Ảnh: 
 ![alt text](https://imgur.com/KGlTmw) 
 ## 3.In đậm/nghiêng
-**In đậm **     
+**In đậm**     
 *In nghiêng* 
 ## 4.Trích dẫn, bo chữ 
 C1: 'đoạn cần bo'  
